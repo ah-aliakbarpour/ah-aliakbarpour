@@ -35,7 +35,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     </a>
   </div>
-  <br><hr>
+  <br><br>
   <div>
     <a href="https://www.linkedin.com/in/aliakbarpour/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
