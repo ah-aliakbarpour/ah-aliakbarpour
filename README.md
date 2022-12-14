@@ -1,6 +1,10 @@
 <div align="center">
   <br>
   <div>
+      <img  href="https://github.com/ah-aliakbarpour" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+    <a href="https://github.com/ah-aliakbarpour" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    </a>
     <a href="https://github.com/ah-aliakbarpour" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     </a>
